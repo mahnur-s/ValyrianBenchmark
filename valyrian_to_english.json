@@ -1,0 +1,3058 @@
+[
+    {
+        "english": "ability",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "able",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "above",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "absolute",
+        "valyrian": "tatagon"
+    },
+    {
+        "english": "absolute",
+        "valyrian": "teta"
+    },
+    {
+        "english": "accept",
+        "valyrian": "iōragon"
+    },
+    {
+        "english": "act",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "after",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "agency",
+        "valyrian": "ondos"
+    },
+    {
+        "english": "aid",
+        "valyrian": "baelagon"
+    },
+    {
+        "english": "air",
+        "valyrian": "paghar"
+    },
+    {
+        "english": "alot",
+        "valyrian": "olvie"
+    },
+    {
+        "english": "am",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "am",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "ancestor",
+        "valyrian": "eglie"
+    },
+    {
+        "english": "and",
+        "valyrian": "se"
+    },
+    {
+        "english": "another",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "apex",
+        "valyrian": "baes"
+    },
+    {
+        "english": "aphorism",
+        "valyrian": "udir"
+    },
+    {
+        "english": "ar",
+        "valyrian": "are"
+    },
+    {
+        "english": "arakh",
+        "valyrian": "arakh"
+    },
+    {
+        "english": "arc",
+        "valyrian": "obar"
+    },
+    {
+        "english": "arch",
+        "valyrian": "obar"
+    },
+    {
+        "english": "archway",
+        "valyrian": "obar"
+    },
+    {
+        "english": "are",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "are",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "area",
+        "valyrian": "ālion"
+    },
+    {
+        "english": "arm",
+        "valyrian": "ñoghe"
+    },
+    {
+        "english": "armor",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "arrive",
+        "valyrian": "māzigon"
+    },
+    {
+        "english": "art",
+        "valyrian": "ȳs"
+    },
+    {
+        "english": "assemble",
+        "valyrian": "giez"
+    },
+    {
+        "english": "assist",
+        "valyrian": "baelagon"
+    },
+    {
+        "english": "attend",
+        "valyrian": "māzigon"
+    },
+    {
+        "english": "autumn",
+        "valyrian": "iosre"
+    },
+    {
+        "english": "awesome",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "azandy",
+        "valyrian": "azandy"
+    },
+    {
+        "english": "azantys",
+        "valyrian": "azantys"
+    },
+    {
+        "english": "back",
+        "valyrian": "inkon"
+    },
+    {
+        "english": "back",
+        "valyrian": "ampa"
+    },
+    {
+        "english": "bad",
+        "valyrian": "kōz"
+    },
+    {
+        "english": "bake",
+        "valyrian": "bāne"
+    },
+    {
+        "english": "bark",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "barley",
+        "valyrian": "āro"
+    },
+    {
+        "english": "basket",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "bat",
+        "valyrian": "massa"
+    },
+    {
+        "english": "be",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "be",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "beard",
+        "valyrian": "rhotton"
+    },
+    {
+        "english": "bed",
+        "valyrian": "ilvos"
+    },
+    {
+        "english": "bee",
+        "valyrian": "ēs"
+    },
+    {
+        "english": "been",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "been",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "beet",
+        "valyrian": "krēgo"
+    },
+    {
+        "english": "bend",
+        "valyrian": "obar"
+    },
+    {
+        "english": "bent",
+        "valyrian": "obar"
+    },
+    {
+        "english": "beyond",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "big",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "bird",
+        "valyrian": "hontes"
+    },
+    {
+        "english": "blaine",
+        "valyrian": "blēnon"
+    },
+    {
+        "english": "block",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "blood",
+        "valyrian": "ānogar"
+    },
+    {
+        "english": "boat",
+        "valyrian": "lōgor"
+    },
+    {
+        "english": "body",
+        "valyrian": "mēny"
+    },
+    {
+        "english": "boil",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "boil",
+        "valyrian": "oz"
+    },
+    {
+        "english": "bondage",
+        "valyrian": "belmon"
+    },
+    {
+        "english": "bone",
+        "valyrian": "īby"
+    },
+    {
+        "english": "book",
+        "valyrian": "temby"
+    },
+    {
+        "english": "boot",
+        "valyrian": "landis"
+    },
+    {
+        "english": "bow",
+        "valyrian": "obar"
+    },
+    {
+        "english": "bowed",
+        "valyrian": "obar"
+    },
+    {
+        "english": "bowl",
+        "valyrian": "nopon"
+    },
+    {
+        "english": "brace",
+        "valyrian": "aeny"
+    },
+    {
+        "english": "brace",
+        "valyrian": "aena"
+    },
+    {
+        "english": "bread",
+        "valyrian": "havon"
+    },
+    {
+        "english": "break",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "breast",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "breath",
+        "valyrian": "paghar"
+    },
+    {
+        "english": "breathe",
+        "valyrian": "paghar"
+    },
+    {
+        "english": "bring",
+        "valyrian": "maghagon"
+    },
+    {
+        "english": "bring",
+        "valyrian": "nevegon"
+    },
+    {
+        "english": "broke",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "broken",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "bull",
+        "valyrian": "vandis"
+    },
+    {
+        "english": "bunchofgrapes",
+        "valyrian": "averun"
+    },
+    {
+        "english": "butterfly",
+        "valyrian": "sōvion"
+    },
+    {
+        "english": "butterfly",
+        "valyrian": "sōvegon"
+    },
+    {
+        "english": "buttress",
+        "valyrian": "aeny"
+    },
+    {
+        "english": "buttress",
+        "valyrian": "aena"
+    },
+    {
+        "english": "buy",
+        "valyrian": "sindigon"
+    },
+    {
+        "english": "can",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "candle",
+        "valyrian": "qēlos"
+    },
+    {
+        "english": "canyon",
+        "valyrian": "rios"
+    },
+    {
+        "english": "carrot",
+        "valyrian": "onjapos"
+    },
+    {
+        "english": "carrot",
+        "valyrian": "ītsos"
+    },
+    {
+        "english": "carry",
+        "valyrian": "maghagon"
+    },
+    {
+        "english": "carry",
+        "valyrian": "nevegon"
+    },
+    {
+        "english": "case",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "cash",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "casing",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "casket",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "castle",
+        "valyrian": "somby"
+    },
+    {
+        "english": "cat",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "catalog",
+        "valyrian": "bardugon"
+    },
+    {
+        "english": "catalogue",
+        "valyrian": "bardugon"
+    },
+    {
+        "english": "cedar",
+        "valyrian": "uela"
+    },
+    {
+        "english": "certain",
+        "valyrian": "sīlie"
+    },
+    {
+        "english": "chain",
+        "valyrian": "belmon"
+    },
+    {
+        "english": "chair",
+        "valyrian": "dēmagon"
+    },
+    {
+        "english": "champion",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "chastise",
+        "valyrian": "qilōny"
+    },
+    {
+        "english": "cherish",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "chest",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "choice",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "choose",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "city",
+        "valyrian": "oktion"
+    },
+    {
+        "english": "clothes",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "clothing",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "coarse",
+        "valyrian": "rhinka"
+    },
+    {
+        "english": "coin",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "cold",
+        "valyrian": "iosre"
+    },
+    {
+        "english": "collective",
+        "valyrian": "kāro"
+    },
+    {
+        "english": "come",
+        "valyrian": "māzigon"
+    },
+    {
+        "english": "complete",
+        "valyrian": "tatagon"
+    },
+    {
+        "english": "complete",
+        "valyrian": "teta"
+    },
+    {
+        "english": "concave",
+        "valyrian": "nopon"
+    },
+    {
+        "english": "concert",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "congregate",
+        "valyrian": "giez"
+    },
+    {
+        "english": "conquer",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "conqueror",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "conquest",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "consistent",
+        "valyrian": "are"
+    },
+    {
+        "english": "cool",
+        "valyrian": "iosre"
+    },
+    {
+        "english": "cord",
+        "valyrian": "hubon"
+    },
+    {
+        "english": "core",
+        "valyrian": "ripo"
+    },
+    {
+        "english": "correct",
+        "valyrian": "drēje"
+    },
+    {
+        "english": "cost",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "could",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "court",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "cow",
+        "valyrian": "vandis"
+    },
+    {
+        "english": "crab",
+        "valyrian": "qana"
+    },
+    {
+        "english": "creek",
+        "valyrian": "qelbar"
+    },
+    {
+        "english": "crowd",
+        "valyrian": "giez"
+    },
+    {
+        "english": "cry",
+        "valyrian": "qūvy"
+    },
+    {
+        "english": "cry",
+        "valyrian": "limagon"
+    },
+    {
+        "english": "crystal",
+        "valyrian": "zāeres"
+    },
+    {
+        "english": "currency",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "curve",
+        "valyrian": "obar"
+    },
+    {
+        "english": "cute",
+        "valyrian": "litse"
+    },
+    {
+        "english": "cyclic",
+        "valyrian": "are"
+    },
+    {
+        "english": "daor",
+        "valyrian": "daor"
+    },
+    {
+        "english": "dawn",
+        "valyrian": "ōz"
+    },
+    {
+        "english": "dead",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "death",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "decide",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "decision",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "deer",
+        "valyrian": "myrdys"
+    },
+    {
+        "english": "deer",
+        "valyrian": "velkrys"
+    },
+    {
+        "english": "defeat",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "defend",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "defender",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "definite",
+        "valyrian": "sīlie"
+    },
+    {
+        "english": "deity",
+        "valyrian": "jaes"
+    },
+    {
+        "english": "delicious",
+        "valyrian": "ēngos"
+    },
+    {
+        "english": "deserve",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "destroy",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "destruction",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "dialect",
+        "valyrian": "ēngos"
+    },
+    {
+        "english": "dictator",
+        "valyrian": "qrīnio"
+    },
+    {
+        "english": "dictator",
+        "valyrian": "qrin"
+    },
+    {
+        "english": "die",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "dirty",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "discover",
+        "valyrian": "rhaenagon"
+    },
+    {
+        "english": "ditch",
+        "valyrian": "grōzion"
+    },
+    {
+        "english": "divide",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "division",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "do",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "doe",
+        "valyrian": "myrdys"
+    },
+    {
+        "english": "doe",
+        "valyrian": "velkrys"
+    },
+    {
+        "english": "dog",
+        "valyrian": "jaos"
+    },
+    {
+        "english": "dohaeris",
+        "valyrian": "dohaeragon"
+    },
+    {
+        "english": "done",
+        "valyrian": "tatagon"
+    },
+    {
+        "english": "done",
+        "valyrian": "teta"
+    },
+    {
+        "english": "doom",
+        "valyrian": "vējes"
+    },
+    {
+        "english": "door",
+        "valyrian": "nerny"
+    },
+    {
+        "english": "dracarys",
+        "valyrian": "drakarys"
+    },
+    {
+        "english": "dragon",
+        "valyrian": "drakarys"
+    },
+    {
+        "english": "dragonfire",
+        "valyrian": "drakarys"
+    },
+    {
+        "english": "drakarys",
+        "valyrian": "drakarys"
+    },
+    {
+        "english": "drown",
+        "valyrian": "bughegon"
+    },
+    {
+        "english": "dubys",
+        "valyrian": "dubys"
+    },
+    {
+        "english": "dust",
+        "valyrian": "jeson"
+    },
+    {
+        "english": "dying",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "ear",
+        "valyrian": "eleks"
+    },
+    {
+        "english": "earth",
+        "valyrian": "tegon"
+    },
+    {
+        "english": "east",
+        "valyrian": "ñāqien"
+    },
+    {
+        "english": "eastern",
+        "valyrian": "ñāqien"
+    },
+    {
+        "english": "eat",
+        "valyrian": "oskisagon"
+    },
+    {
+        "english": "eat",
+        "valyrian": "kisalbar"
+    },
+    {
+        "english": "effective",
+        "valyrian": "qana"
+    },
+    {
+        "english": "egg",
+        "valyrian": "drōmon"
+    },
+    {
+        "english": "ego",
+        "valyrian": "nyke"
+    },
+    {
+        "english": "elderberry",
+        "valyrian": "tōmo"
+    },
+    {
+        "english": "elderflower",
+        "valyrian": "tōmo"
+    },
+    {
+        "english": "encounter",
+        "valyrian": "rhaenagon"
+    },
+    {
+        "english": "enormous",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "equal",
+        "valyrian": "gīda"
+    },
+    {
+        "english": "err",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "even",
+        "valyrian": "gīda"
+    },
+    {
+        "english": "evergiven",
+        "valyrian": "suez"
+    },
+    {
+        "english": "evil",
+        "valyrian": "kōz"
+    },
+    {
+        "english": "excellent",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "extra",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "exultant",
+        "valyrian": "jessie"
+    },
+    {
+        "english": "eye",
+        "valyrian": "laes"
+    },
+    {
+        "english": "eyeball",
+        "valyrian": "laes"
+    },
+    {
+        "english": "fail",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "fair",
+        "valyrian": "litse"
+    },
+    {
+        "english": "fall",
+        "valyrian": "iosre"
+    },
+    {
+        "english": "fate",
+        "valyrian": "vējes"
+    },
+    {
+        "english": "feast",
+        "valyrian": "oskisagon"
+    },
+    {
+        "english": "feast",
+        "valyrian": "kisalbar"
+    },
+    {
+        "english": "feather",
+        "valyrian": "tīkos"
+    },
+    {
+        "english": "female",
+        "valyrian": "ābra"
+    },
+    {
+        "english": "fig",
+        "valyrian": "rōbir"
+    },
+    {
+        "english": "fight",
+        "valyrian": "azandy"
+    },
+    {
+        "english": "fill",
+        "valyrian": "leghagon"
+    },
+    {
+        "english": "filled",
+        "valyrian": "leghagon"
+    },
+    {
+        "english": "filth",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "filthy",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "final",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "find",
+        "valyrian": "rhaenagon"
+    },
+    {
+        "english": "finish",
+        "valyrian": "tatagon"
+    },
+    {
+        "english": "finish",
+        "valyrian": "teta"
+    },
+    {
+        "english": "finished",
+        "valyrian": "tatagon"
+    },
+    {
+        "english": "finished",
+        "valyrian": "teta"
+    },
+    {
+        "english": "fire",
+        "valyrian": "perzys"
+    },
+    {
+        "english": "fish",
+        "valyrian": "klios"
+    },
+    {
+        "english": "fish",
+        "valyrian": "adere"
+    },
+    {
+        "english": "flock",
+        "valyrian": "tīkos"
+    },
+    {
+        "english": "flow",
+        "valyrian": "iāragon"
+    },
+    {
+        "english": "fly",
+        "valyrian": "sōvion"
+    },
+    {
+        "english": "fly",
+        "valyrian": "sōvegon"
+    },
+    {
+        "english": "food",
+        "valyrian": "havor"
+    },
+    {
+        "english": "foot",
+        "valyrian": "deks"
+    },
+    {
+        "english": "footprint",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "forest",
+        "valyrian": "guēsin"
+    },
+    {
+        "english": "fort",
+        "valyrian": "somby"
+    },
+    {
+        "english": "fortification",
+        "valyrian": "somby"
+    },
+    {
+        "english": "fortress",
+        "valyrian": "somby"
+    },
+    {
+        "english": "fox",
+        "valyrian": "lanty"
+    },
+    {
+        "english": "free",
+        "valyrian": "dāez"
+    },
+    {
+        "english": "freedom",
+        "valyrian": "dāez"
+    },
+    {
+        "english": "frequent",
+        "valyrian": "are"
+    },
+    {
+        "english": "frog",
+        "valyrian": "reks"
+    },
+    {
+        "english": "frond",
+        "valyrian": "temby"
+    },
+    {
+        "english": "front",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "full",
+        "valyrian": "leghagon"
+    },
+    {
+        "english": "furrow",
+        "valyrian": "grōzion"
+    },
+    {
+        "english": "gaomagon",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "gaos",
+        "valyrian": "gaos"
+    },
+    {
+        "english": "gate",
+        "valyrian": "remio"
+    },
+    {
+        "english": "gather",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "gathering",
+        "valyrian": "giez"
+    },
+    {
+        "english": "gem",
+        "valyrian": "zāeres"
+    },
+    {
+        "english": "gen",
+        "valyrian": "osragon"
+    },
+    {
+        "english": "genitive",
+        "valyrian": "osragon"
+    },
+    {
+        "english": "geron",
+        "valyrian": "geron"
+    },
+    {
+        "english": "get",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "glass",
+        "valyrian": "jenys"
+    },
+    {
+        "english": "go",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "god",
+        "valyrian": "jaes"
+    },
+    {
+        "english": "goddess",
+        "valyrian": "jaes"
+    },
+    {
+        "english": "gods",
+        "valyrian": "jaes"
+    },
+    {
+        "english": "goes",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "going",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "gold",
+        "valyrian": "āeksion"
+    },
+    {
+        "english": "gone",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "good",
+        "valyrian": "sȳz"
+    },
+    {
+        "english": "grape",
+        "valyrian": "avero"
+    },
+    {
+        "english": "grapebunch",
+        "valyrian": "averun"
+    },
+    {
+        "english": "grapes",
+        "valyrian": "averun"
+    },
+    {
+        "english": "ground",
+        "valyrian": "tegon"
+    },
+    {
+        "english": "guard",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "guardian",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "guest",
+        "valyrian": "zentys"
+    },
+    {
+        "english": "had",
+        "valyrian": "emagon"
+    },
+    {
+        "english": "half",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "halve",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "has",
+        "valyrian": "emagon"
+    },
+    {
+        "english": "have",
+        "valyrian": "emagon"
+    },
+    {
+        "english": "hammer",
+        "valyrian": "galry"
+    },
+    {
+        "english": "hand",
+        "valyrian": "ondos"
+    },
+    {
+        "english": "he",
+        "valyrian": "ziry"
+    },
+    {
+        "english": "heal",
+        "valyrian": "giez"
+    },
+    {
+        "english": "heap",
+        "valyrian": "kāro"
+    },
+    {
+        "english": "hearing",
+        "valyrian": "eleks"
+    },
+    {
+        "english": "heart",
+        "valyrian": "prūmia"
+    },
+    {
+        "english": "heat",
+        "valyrian": "bāne"
+    },
+    {
+        "english": "heft",
+        "valyrian": "osragon"
+    },
+    {
+        "english": "helm",
+        "valyrian": "gelte"
+    },
+    {
+        "english": "helmet",
+        "valyrian": "gelte"
+    },
+    {
+        "english": "help",
+        "valyrian": "baelagon"
+    },
+    {
+        "english": "hero",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "high",
+        "valyrian": "eglie"
+    },
+    {
+        "english": "hole",
+        "valyrian": "nopon"
+    },
+    {
+        "english": "hook",
+        "valyrian": "ūly"
+    },
+    {
+        "english": "honey",
+        "valyrian": "elilla"
+    },
+    {
+        "english": "horde",
+        "valyrian": "naena"
+    },
+    {
+        "english": "horse",
+        "valyrian": "anne"
+    },
+    {
+        "english": "hot",
+        "valyrian": "bāne"
+    },
+    {
+        "english": "how",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "huge",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "hunt",
+        "valyrian": "arghuragon"
+    },
+    {
+        "english": "hunter",
+        "valyrian": "arghuragon"
+    },
+    {
+        "english": "husk",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "ice",
+        "valyrian": "suvion"
+    },
+    {
+        "english": "il",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "ilagon",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "illa",
+        "valyrian": "elilla"
+    },
+    {
+        "english": "ilza",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "imprint",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "impression",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "industry",
+        "valyrian": "galry"
+    },
+    {
+        "english": "information",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "intend",
+        "valyrian": "indigon"
+    },
+    {
+        "english": "iron",
+        "valyrian": "āegion"
+    },
+    {
+        "english": "is",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "is",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "island",
+        "valyrian": "ājon"
+    },
+    {
+        "english": "it",
+        "valyrian": "ūja"
+    },
+    {
+        "english": "ītsos",
+        "valyrian": "onjapos"
+    },
+    {
+        "english": "ītsos",
+        "valyrian": "ītsos"
+    },
+    {
+        "english": "jaes",
+        "valyrian": "jaes"
+    },
+    {
+        "english": "jagon",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "jammed",
+        "valyrian": "suez"
+    },
+    {
+        "english": "jaos",
+        "valyrian": "jaos"
+    },
+    {
+        "english": "jealous",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "jessie",
+        "valyrian": "jessie"
+    },
+    {
+        "english": "jewel",
+        "valyrian": "zāeres"
+    },
+    {
+        "english": "joyful",
+        "valyrian": "jessie"
+    },
+    {
+        "english": "justice",
+        "valyrian": "drēje"
+    },
+    {
+        "english": "keep",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "keli",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "kēli",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "kernel",
+        "valyrian": "nūmo"
+    },
+    {
+        "english": "kind",
+        "valyrian": "lūs"
+    },
+    {
+        "english": "king",
+        "valyrian": "dārys"
+    },
+    {
+        "english": "kis",
+        "valyrian": "oskisagon"
+    },
+    {
+        "english": "kis",
+        "valyrian": "kisalbar"
+    },
+    {
+        "english": "kitten",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "kitty",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "know",
+        "valyrian": "rhaenagon"
+    },
+    {
+        "english": "knowledge",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "ks",
+        "valyrian": "ks"
+    },
+    {
+        "english": "ladle",
+        "valyrian": "manengi"
+    },
+    {
+        "english": "land",
+        "valyrian": "tegon"
+    },
+    {
+        "english": "landis",
+        "valyrian": "landis"
+    },
+    {
+        "english": "language",
+        "valyrian": "ēngos"
+    },
+    {
+        "english": "large",
+        "valyrian": "rōva"
+    },
+    {
+        "english": "leaf",
+        "valyrian": "temby"
+    },
+    {
+        "english": "learn",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "leg",
+        "valyrian": "kris"
+    },
+    {
+        "english": "liberty",
+        "valyrian": "dāez"
+    },
+    {
+        "english": "library",
+        "valyrian": "temby"
+    },
+    {
+        "english": "lie",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "lift",
+        "valyrian": "osragon"
+    },
+    {
+        "english": "little",
+        "valyrian": "byka"
+    },
+    {
+        "english": "lizard",
+        "valyrian": "rīza"
+    },
+    {
+        "english": "location",
+        "valyrian": "ālion"
+    },
+    {
+        "english": "long",
+        "valyrian": "bōsa"
+    },
+    {
+        "english": "lord",
+        "valyrian": "āeksion"
+    },
+    {
+        "english": "love",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "low",
+        "valyrian": "quba"
+    },
+    {
+        "english": "lying",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "maintain",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "mal",
+        "valyrian": "qrīnio"
+    },
+    {
+        "english": "mal",
+        "valyrian": "qrin-"
+    },
+    {
+        "english": "male",
+        "valyrian": "vala"
+    },
+    {
+        "english": "mallet",
+        "valyrian": "galry"
+    },
+    {
+        "english": "man",
+        "valyrian": "vala"
+    },
+    {
+        "english": "many",
+        "valyrian": "naena"
+    },
+    {
+        "english": "mariner",
+        "valyrian": "lōgor"
+    },
+    {
+        "english": "market",
+        "valyrian": "sindigon"
+    },
+    {
+        "english": "marketplace",
+        "valyrian": "sindigon"
+    },
+    {
+        "english": "massa",
+        "valyrian": "massa"
+    },
+    {
+        "english": "master",
+        "valyrian": "āeksion"
+    },
+    {
+        "english": "me",
+        "valyrian": "nyke"
+    },
+    {
+        "english": "meal",
+        "valyrian": "parklon"
+    },
+    {
+        "english": "mean",
+        "valyrian": "indigon"
+    },
+    {
+        "english": "meat",
+        "valyrian": "parklon"
+    },
+    {
+        "english": "meet",
+        "valyrian": "rhaenagon"
+    },
+    {
+        "english": "might",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "milk",
+        "valyrian": "jūlor"
+    },
+    {
+        "english": "mom",
+        "valyrian": "muña"
+    },
+    {
+        "english": "money",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "monkey",
+        "valyrian": "gaba"
+    },
+    {
+        "english": "monster",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "monster",
+        "valyrian": "oz"
+    },
+    {
+        "english": "moon",
+        "valyrian": "hūra"
+    },
+    {
+        "english": "morghon",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "morghulis",
+        "valyrian": "morghon"
+    },
+    {
+        "english": "morning",
+        "valyrian": "ñāqien"
+    },
+    {
+        "english": "mother",
+        "valyrian": "muña"
+    },
+    {
+        "english": "mountain",
+        "valyrian": "blēnon"
+    },
+    {
+        "english": "mouth",
+        "valyrian": "relgos"
+    },
+    {
+        "english": "move",
+        "valyrian": "aeragon"
+    },
+    {
+        "english": "much",
+        "valyrian": "olvie"
+    },
+    {
+        "english": "multitude",
+        "valyrian": "naena"
+    },
+    {
+        "english": "mushroom",
+        "valyrian": "nollon"
+    },
+    {
+        "english": "zenith",
+        "valyrian": "baes"
+    },
+    {
+        "english": "zentys",
+        "valyrian": "zentys"
+    },
+    {
+        "english": "ziry",
+        "valyrian": "ziry"
+    },
+    {
+        "english": "zr",
+        "valyrian": "j"
+    },
+    {
+        "english": "yall",
+        "valyrian": "ao"
+    },
+    {
+        "english": "yall",
+        "valyrian": "jeme"
+    },
+    {
+        "english": "yes",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "yes",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "you",
+        "valyrian": "ao"
+    },
+    {
+        "english": "you",
+        "valyrian": "jeme"
+    },
+    {
+        "english": "youall",
+        "valyrian": "ao"
+    },
+    {
+        "english": "youall",
+        "valyrian": "jeme"
+    },
+    {
+        "english": "young",
+        "valyrian": "suene"
+    },
+    {
+        "english": "youth",
+        "valyrian": "suene"
+    },
+    {
+        "english": "youthful",
+        "valyrian": "suene"
+    },
+    {
+        "english": "nadir",
+        "valyrian": "gaos"
+    },
+    {
+        "english": "naejos",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "naejot",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "naena",
+        "valyrian": "naena"
+    },
+    {
+        "english": "narrow",
+        "valyrian": "ȳrda"
+    },
+    {
+        "english": "neck",
+        "valyrian": "yrgos"
+    },
+    {
+        "english": "neg",
+        "valyrian": "daor"
+    },
+    {
+        "english": "negative",
+        "valyrian": "daor"
+    },
+    {
+        "english": "net",
+        "valyrian": "manengi"
+    },
+    {
+        "english": "never",
+        "valyrian": "daor"
+    },
+    {
+        "english": "nightsky",
+        "valyrian": "ēbrion"
+    },
+    {
+        "english": "no",
+        "valyrian": "daor"
+    },
+    {
+        "english": "nobody",
+        "valyrian": "daor"
+    },
+    {
+        "english": "nollon",
+        "valyrian": "nollon"
+    },
+    {
+        "english": "non",
+        "valyrian": "non"
+    },
+    {
+        "english": "none",
+        "valyrian": "daor"
+    },
+    {
+        "english": "noone",
+        "valyrian": "daor"
+    },
+    {
+        "english": "north",
+        "valyrian": "jelmio"
+    },
+    {
+        "english": "northern",
+        "valyrian": "jelmio"
+    },
+    {
+        "english": "nose",
+        "valyrian": "pungos"
+    },
+    {
+        "english": "nostril",
+        "valyrian": "pungos"
+    },
+    {
+        "english": "not",
+        "valyrian": "daor"
+    },
+    {
+        "english": "nothing",
+        "valyrian": "daorun"
+    },
+    {
+        "english": "nowhere",
+        "valyrian": "daor"
+    },
+    {
+        "english": "nut",
+        "valyrian": "nūmo"
+    },
+    {
+        "english": "oath",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "ocean",
+        "valyrian": "embar"
+    },
+    {
+        "english": "ogre",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "ogre",
+        "valyrian": "oz"
+    },
+    {
+        "english": "okeo",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "oktion",
+        "valyrian": "oktion"
+    },
+    {
+        "english": "olive",
+        "valyrian": "pēko"
+    },
+    {
+        "english": "ondos",
+        "valyrian": "ondos"
+    },
+    {
+        "english": "orchid",
+        "valyrian": "votre"
+    },
+    {
+        "english": "oscillate",
+        "valyrian": "velagon"
+    },
+    {
+        "english": "other",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "owl",
+        "valyrian": "atroksia"
+    },
+    {
+        "english": "paez",
+        "valyrian": "paez"
+    },
+    {
+        "english": "page",
+        "valyrian": "temby"
+    },
+    {
+        "english": "palm",
+        "valyrian": "nine"
+    },
+    {
+        "english": "parklon",
+        "valyrian": "parklon"
+    },
+    {
+        "english": "part",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "particular",
+        "valyrian": "lūs"
+    },
+    {
+        "english": "path",
+        "valyrian": "geron"
+    },
+    {
+        "english": "pawn",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "pec",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "pecs",
+        "valyrian": "naejos"
+    },
+    {
+        "english": "pelican",
+        "valyrian": "manengi"
+    },
+    {
+        "english": "perform",
+        "valyrian": "gaomagon"
+    },
+    {
+        "english": "phrase",
+        "valyrian": "udir"
+    },
+    {
+        "english": "pick",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "pickup",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "piece",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "pile",
+        "valyrian": "kāro"
+    },
+    {
+        "english": "pillar",
+        "valyrian": "qīzy"
+    },
+    {
+        "english": "pimple",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "pimple",
+        "valyrian": "oz"
+    },
+    {
+        "english": "pit",
+        "valyrian": "nopon"
+    },
+    {
+        "english": "place",
+        "valyrian": "ālion"
+    },
+    {
+        "english": "place",
+        "valyrian": "-lion"
+    },
+    {
+        "english": "planet",
+        "valyrian": "vȳs"
+    },
+    {
+        "english": "planetos",
+        "valyrian": "vȳs"
+    },
+    {
+        "english": "plu",
+        "valyrian": "olvie"
+    },
+    {
+        "english": "pluck",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "plural",
+        "valyrian": "olvie"
+    },
+    {
+        "english": "pod",
+        "valyrian": "nūmo"
+    },
+    {
+        "english": "poor",
+        "valyrian": "quba"
+    },
+    {
+        "english": "portion",
+        "valyrian": "parklon"
+    },
+    {
+        "english": "post",
+        "valyrian": "qīzy"
+    },
+    {
+        "english": "powder",
+        "valyrian": "jeson"
+    },
+    {
+        "english": "power",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "pretty",
+        "valyrian": "litse"
+    },
+    {
+        "english": "pride",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "pride",
+        "valyrian": "oz"
+    },
+    {
+        "english": "priest",
+        "valyrian": "voktys"
+    },
+    {
+        "english": "priestess",
+        "valyrian": "voktys"
+    },
+    {
+        "english": "prince",
+        "valyrian": "dārys"
+    },
+    {
+        "english": "princess",
+        "valyrian": "dārys"
+    },
+    {
+        "english": "print",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "promise",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "prostrate",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "protect",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "protector",
+        "valyrian": "mīsagon"
+    },
+    {
+        "english": "protection",
+        "valyrian": "somby"
+    },
+    {
+        "english": "punish",
+        "valyrian": "qilōny"
+    },
+    {
+        "english": "purchase",
+        "valyrian": "sindigon"
+    },
+    {
+        "english": "push",
+        "valyrian": "indigon"
+    },
+    {
+        "english": "qintir",
+        "valyrian": "turtle"
+    },
+    {
+        "english": "qrin",
+        "valyrian": "qrīnio"
+    },
+    {
+        "english": "qrin",
+        "valyrian": "qrin-"
+    },
+    {
+        "english": "quick",
+        "valyrian": "klios"
+    },
+    {
+        "english": "quick",
+        "valyrian": "adere"
+    },
+    {
+        "english": "qurdon",
+        "valyrian": "qurdon"
+    },
+    {
+        "english": "race",
+        "valyrian": "lūs"
+    },
+    {
+        "english": "rain",
+        "valyrian": "daomio"
+    },
+    {
+        "english": "raining",
+        "valyrian": "daomio"
+    },
+    {
+        "english": "reason",
+        "valyrian": "indigon"
+    },
+    {
+        "english": "receive",
+        "valyrian": "iōragon"
+    },
+    {
+        "english": "record",
+        "valyrian": "bardugon"
+    },
+    {
+        "english": "refuse",
+        "valyrian": "daor"
+    },
+    {
+        "english": "remio",
+        "valyrian": "remio"
+    },
+    {
+        "english": "repetitive",
+        "valyrian": "are"
+    },
+    {
+        "english": "reptile",
+        "valyrian": "rīza"
+    },
+    {
+        "english": "retain",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "return",
+        "valyrian": "māzigon"
+    },
+    {
+        "english": "revere",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "rh",
+        "valyrian": "rh"
+    },
+    {
+        "english": "rhythmic",
+        "valyrian": "are"
+    },
+    {
+        "english": "ria",
+        "valyrian": "-ria"
+    },
+    {
+        "english": "rice",
+        "valyrian": "mālor"
+    },
+    {
+        "english": "river",
+        "valyrian": "qelbar"
+    },
+    {
+        "english": "rivulet",
+        "valyrian": "qelbar"
+    },
+    {
+        "english": "rock",
+        "valyrian": "dōron"
+    },
+    {
+        "english": "roman",
+        "valyrian": "kēli"
+    },
+    {
+        "english": "rope",
+        "valyrian": "hubon"
+    },
+    {
+        "english": "rose",
+        "valyrian": "rēko"
+    },
+    {
+        "english": "rough",
+        "valyrian": "rhinka"
+    },
+    {
+        "english": "ruin",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "safe",
+        "valyrian": "ȳgha"
+    },
+    {
+        "english": "sailor",
+        "valyrian": "lōgor"
+    },
+    {
+        "english": "sale",
+        "valyrian": "lioragon"
+    },
+    {
+        "english": "salt",
+        "valyrian": "lopon"
+    },
+    {
+        "english": "salty",
+        "valyrian": "lopon"
+    },
+    {
+        "english": "sambucus",
+        "valyrian": "tōmo"
+    },
+    {
+        "english": "same",
+        "valyrian": "hēnka"
+    },
+    {
+        "english": "same",
+        "valyrian": "-enka"
+    },
+    {
+        "english": "sanctuary",
+        "valyrian": "ȳgha"
+    },
+    {
+        "english": "sandal",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "sang",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "saying",
+        "valyrian": "udir"
+    },
+    {
+        "english": "scalp",
+        "valyrian": "ziksos"
+    },
+    {
+        "english": "scoop",
+        "valyrian": "manengi"
+    },
+    {
+        "english": "sea",
+        "valyrian": "embar"
+    },
+    {
+        "english": "seat",
+        "valyrian": "dēmagon"
+    },
+    {
+        "english": "secure",
+        "valyrian": "ȳgha"
+    },
+    {
+        "english": "security",
+        "valyrian": "somby"
+    },
+    {
+        "english": "seed",
+        "valyrian": "nūmo"
+    },
+    {
+        "english": "select",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "selection",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "sell",
+        "valyrian": "lioragon"
+    },
+    {
+        "english": "servant",
+        "valyrian": "dohaeragon"
+    },
+    {
+        "english": "serve",
+        "valyrian": "dohaeragon"
+    },
+    {
+        "english": "sharp",
+        "valyrian": "qana"
+    },
+    {
+        "english": "sharpen",
+        "valyrian": "qana"
+    },
+    {
+        "english": "she",
+        "valyrian": "ziry"
+    },
+    {
+        "english": "sheet",
+        "valyrian": "temby"
+    },
+    {
+        "english": "shell",
+        "valyrian": "pragron"
+    },
+    {
+        "english": "shoulder",
+        "valyrian": "qībi"
+    },
+    {
+        "english": "shield",
+        "valyrian": "somby"
+    },
+    {
+        "english": "ship",
+        "valyrian": "lōgor"
+    },
+    {
+        "english": "sibling",
+        "valyrian": "dubys"
+    },
+    {
+        "english": "silk",
+        "valyrian": "kyno"
+    },
+    {
+        "english": "silkworm",
+        "valyrian": "kyno"
+    },
+    {
+        "english": "silver",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "similar",
+        "valyrian": "hēnka"
+    },
+    {
+        "english": "similar",
+        "valyrian": "-enka"
+    },
+    {
+        "english": "sing",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "singing",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "sit",
+        "valyrian": "dēmagon"
+    },
+    {
+        "english": "slave",
+        "valyrian": "dohaeragon"
+    },
+    {
+        "english": "slaver",
+        "valyrian": "belmon"
+    },
+    {
+        "english": "sleek",
+        "valyrian": "klios"
+    },
+    {
+        "english": "sleek",
+        "valyrian": "adere"
+    },
+    {
+        "english": "slippery",
+        "valyrian": "klios"
+    },
+    {
+        "english": "slippery",
+        "valyrian": "adere"
+    },
+    {
+        "english": "slit",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "slow",
+        "valyrian": "paez"
+    },
+    {
+        "english": "sluggish",
+        "valyrian": "paez"
+    },
+    {
+        "english": "small",
+        "valyrian": "byka"
+    },
+    {
+        "english": "smell",
+        "valyrian": "pungos"
+    },
+    {
+        "english": "smile",
+        "valyrian": "līrigon"
+    },
+    {
+        "english": "smooth",
+        "valyrian": "klios"
+    },
+    {
+        "english": "smooth",
+        "valyrian": "adere"
+    },
+    {
+        "english": "snake",
+        "valyrian": "pelar"
+    },
+    {
+        "english": "snout",
+        "valyrian": "āpsos"
+    },
+    {
+        "english": "soiled",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "sold",
+        "valyrian": "lioragon"
+    },
+    {
+        "english": "somby",
+        "valyrian": "somby"
+    },
+    {
+        "english": "song",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "soon",
+        "valyrian": "klios"
+    },
+    {
+        "english": "soon",
+        "valyrian": "adere"
+    },
+    {
+        "english": "specific",
+        "valyrian": "lūs"
+    },
+    {
+        "english": "speech",
+        "valyrian": "udir"
+    },
+    {
+        "english": "spider",
+        "valyrian": "vaokses"
+    },
+    {
+        "english": "split",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "spring",
+        "valyrian": "kiōs"
+    },
+    {
+        "english": "squid",
+        "valyrian": "uēs"
+    },
+    {
+        "english": "stable",
+        "valyrian": "gīda"
+    },
+    {
+        "english": "stag",
+        "valyrian": "myrdys"
+    },
+    {
+        "english": "stag",
+        "valyrian": "velkrys"
+    },
+    {
+        "english": "stain",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "stamp",
+        "valyrian": "kīvo"
+    },
+    {
+        "english": "stand",
+        "valyrian": "iōragon"
+    },
+    {
+        "english": "star",
+        "valyrian": "qēlos"
+    },
+    {
+        "english": "steady",
+        "valyrian": "gīda"
+    },
+    {
+        "english": "steam",
+        "valyrian": "konor"
+    },
+    {
+        "english": "stone",
+        "valyrian": "dōron"
+    },
+    {
+        "english": "stool",
+        "valyrian": "dēmagon"
+    },
+    {
+        "english": "store",
+        "valyrian": "rāelagon"
+    },
+    {
+        "english": "storm",
+        "valyrian": "jelmāzma"
+    },
+    {
+        "english": "stormborn",
+        "valyrian": "jelmāzma"
+    },
+    {
+        "english": "straight",
+        "valyrian": "ilagon"
+    },
+    {
+        "english": "strength",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "stuck",
+        "valyrian": "suez"
+    },
+    {
+        "english": "suez",
+        "valyrian": "suez"
+    },
+    {
+        "english": "sully",
+        "valyrian": "vaogar"
+    },
+    {
+        "english": "summer",
+        "valyrian": "jaedos"
+    },
+    {
+        "english": "summit",
+        "valyrian": "baes"
+    },
+    {
+        "english": "sun",
+        "valyrian": "vēzos"
+    },
+    {
+        "english": "sunder",
+        "valyrian": "pryjagon"
+    },
+    {
+        "english": "sung",
+        "valyrian": "vāedar"
+    },
+    {
+        "english": "sunrise",
+        "valyrian": "ñāqien"
+    },
+    {
+        "english": "sunset",
+        "valyrian": "endien"
+    },
+    {
+        "english": "support",
+        "valyrian": "aeny"
+    },
+    {
+        "english": "support",
+        "valyrian": "aena"
+    },
+    {
+        "english": "supportive",
+        "valyrian": "aeny"
+    },
+    {
+        "english": "supportive",
+        "valyrian": "aena"
+    },
+    {
+        "english": "sustenance",
+        "valyrian": "havor"
+    },
+    {
+        "english": "swam",
+        "valyrian": "bughegon"
+    },
+    {
+        "english": "swell",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "swell",
+        "valyrian": "oz"
+    },
+    {
+        "english": "swelling",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "swelling",
+        "valyrian": "oz"
+    },
+    {
+        "english": "swim",
+        "valyrian": "bughegon"
+    },
+    {
+        "english": "swollen",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "swollen",
+        "valyrian": "oz"
+    },
+    {
+        "english": "sword",
+        "valyrian": "azandy"
+    },
+    {
+        "english": "swum",
+        "valyrian": "bughegon"
+    },
+    {
+        "english": "syrax",
+        "valyrian": "sȳz"
+    },
+    {
+        "english": "table",
+        "valyrian": "qurdon"
+    },
+    {
+        "english": "tail",
+        "valyrian": "bode"
+    },
+    {
+        "english": "take",
+        "valyrian": "gūron"
+    },
+    {
+        "english": "tall",
+        "valyrian": "bōsa"
+    },
+    {
+        "english": "tasty",
+        "valyrian": "ēngos"
+    },
+    {
+        "english": "tea",
+        "valyrian": "sūmo"
+    },
+    {
+        "english": "tealeaf",
+        "valyrian": "sūmo"
+    },
+    {
+        "english": "tear",
+        "valyrian": "qūvy"
+    },
+    {
+        "english": "tear",
+        "valyrian": "limagon"
+    },
+    {
+        "english": "teeth",
+        "valyrian": "ātsio"
+    },
+    {
+        "english": "terros",
+        "valyrian": "vȳs"
+    },
+    {
+        "english": "their",
+        "valyrian": "pōnta"
+    },
+    {
+        "english": "theirs",
+        "valyrian": "pōnta"
+    },
+    {
+        "english": "them",
+        "valyrian": "pōnta"
+    },
+    {
+        "english": "they",
+        "valyrian": "pōnta"
+    },
+    {
+        "english": "thick",
+        "valyrian": "qumblie"
+    },
+    {
+        "english": "thin",
+        "valyrian": "vasrie"
+    },
+    {
+        "english": "thing",
+        "valyrian": "non"
+    },
+    {
+        "english": "throat",
+        "valyrian": "yrgos"
+    },
+    {
+        "english": "throne",
+        "valyrian": "dēmagon"
+    },
+    {
+        "english": "tip",
+        "valyrian": "baes"
+    },
+    {
+        "english": "together",
+        "valyrian": "giez"
+    },
+    {
+        "english": "tohead",
+        "valyrian": "selagon"
+    },
+    {
+        "english": "tome",
+        "valyrian": "temby"
+    },
+    {
+        "english": "tongue",
+        "valyrian": "ēngos"
+    },
+    {
+        "english": "tooth",
+        "valyrian": "ātsio"
+    },
+    {
+        "english": "top",
+        "valyrian": "baes"
+    },
+    {
+        "english": "travel",
+        "valyrian": "aeragon"
+    },
+    {
+        "english": "tree",
+        "valyrian": "guēse"
+    },
+    {
+        "english": "trench",
+        "valyrian": "grōzion"
+    },
+    {
+        "english": "trial",
+        "valyrian": "deragon"
+    },
+    {
+        "english": "triumph",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "trouble",
+        "valyrian": "pelar"
+    },
+    {
+        "english": "true",
+        "valyrian": "drēje"
+    },
+    {
+        "english": "truly",
+        "valyrian": "drēje"
+    },
+    {
+        "english": "truth",
+        "valyrian": "drēje"
+    },
+    {
+        "english": "tumor",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "tumor",
+        "valyrian": "oz"
+    },
+    {
+        "english": "ts",
+        "valyrian": "ts"
+    },
+    {
+        "english": "turtle",
+        "valyrian": "turtle"
+    },
+    {
+        "english": "type",
+        "valyrian": "lūs"
+    },
+    {
+        "english": "tyrant",
+        "valyrian": "qrīnio"
+    },
+    {
+        "english": "tyrant",
+        "valyrian": "qrin-"
+    },
+    {
+        "english": "uja",
+        "valyrian": "ūja"
+    },
+    {
+        "english": "ūja",
+        "valyrian": "ūja"
+    },
+    {
+        "english": "ultimate",
+        "valyrian": "tolie"
+    },
+    {
+        "english": "underside",
+        "valyrian": "gaos"
+    },
+    {
+        "english": "unpleasant",
+        "valyrian": "rhinka"
+    },
+    {
+        "english": "us",
+        "valyrian": "īlon"
+    },
+    {
+        "english": "utmost",
+        "valyrian": "bōsa"
+    },
+    {
+        "english": "vala",
+        "valyrian": "vala"
+    },
+    {
+        "english": "valar",
+        "valyrian": "vala"
+    },
+    {
+        "english": "valley",
+        "valyrian": "rios"
+    },
+    {
+        "english": "value",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "valyre",
+        "valyrian": "Valyria"
+    },
+    {
+        "english": "valyria",
+        "valyrian": "Valyria"
+    },
+    {
+        "english": "valyrian",
+        "valyrian": "Valyria"
+    },
+    {
+        "english": "valyrio",
+        "valyrian": "Valyria"
+    },
+    {
+        "english": "valyry",
+        "valyrian": "Valyria"
+    },
+    {
+        "english": "vanquish",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "vapor",
+        "valyrian": "konor"
+    },
+    {
+        "english": "velaryon",
+        "valyrian": "velagon"
+    },
+    {
+        "english": "victor",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "victorious",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "victory",
+        "valyrian": "ērinagon"
+    },
+    {
+        "english": "votre",
+        "valyrian": "votre"
+    },
+    {
+        "english": "walkway",
+        "valyrian": "geron"
+    },
+    {
+        "english": "wall",
+        "valyrian": "dōron"
+    },
+    {
+        "english": "warm",
+        "valyrian": "bāne"
+    },
+    {
+        "english": "was",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "was",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "water",
+        "valyrian": "iēdar"
+    },
+    {
+        "english": "waterowl",
+        "valyrian": "-ria"
+    },
+    {
+        "english": "wave",
+        "valyrian": "pelar"
+    },
+    {
+        "english": "we",
+        "valyrian": "īlon"
+    },
+    {
+        "english": "wedged",
+        "valyrian": "suez"
+    },
+    {
+        "english": "weep",
+        "valyrian": "qūvy"
+    },
+    {
+        "english": "weep",
+        "valyrian": "limagon"
+    },
+    {
+        "english": "welt",
+        "valyrian": "hōzigon"
+    },
+    {
+        "english": "welt",
+        "valyrian": "oz"
+    },
+    {
+        "english": "went",
+        "valyrian": "jagon"
+    },
+    {
+        "english": "were",
+        "valyrian": "sagon"
+    },
+    {
+        "english": "were",
+        "valyrian": "sīkuda"
+    },
+    {
+        "english": "west",
+        "valyrian": "endien"
+    },
+    {
+        "english": "western",
+        "valyrian": "endien"
+    },
+    {
+        "english": "what",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "wheel",
+        "valyrian": "grevy"
+    },
+    {
+        "english": "when",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "where",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "whip",
+        "valyrian": "qilōny"
+    },
+    {
+        "english": "who",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "whom",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "whole",
+        "valyrian": "giez"
+    },
+    {
+        "english": "whose",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "why",
+        "valyrian": "skoros"
+    },
+    {
+        "english": "wicked",
+        "valyrian": "kōz"
+    },
+    {
+        "english": "wide",
+        "valyrian": "drāñe"
+    },
+    {
+        "english": "wind",
+        "valyrian": "jelmio"
+    },
+    {
+        "english": "window",
+        "valyrian": "ezīmagon"
+    },
+    {
+        "english": "windy",
+        "valyrian": "jelmio"
+    },
+    {
+        "english": "wing",
+        "valyrian": "tīkos"
+    },
+    {
+        "english": "witty",
+        "valyrian": "udir"
+    },
+    {
+        "english": "woman",
+        "valyrian": "ābra"
+    },
+    {
+        "english": "woods",
+        "valyrian": "guēsin"
+    },
+    {
+        "english": "word",
+        "valyrian": "udir"
+    },
+    {
+        "english": "world",
+        "valyrian": "vȳs"
+    },
+    {
+        "english": "worth",
+        "valyrian": "kostion"
+    },
+    {
+        "english": "write",
+        "valyrian": "bardugon"
+    },
+    {
+        "english": "writer",
+        "valyrian": "bardugon"
+    }
+]
